@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.60.0",
+    "nodemon": "^2.0.20",
+    "telegraf": "^3.38.0",
+    "telegram-mtproto": "^2.2.2"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.57.6"
+  },
+  "name": "forwe_group",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
